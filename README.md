@@ -110,3 +110,47 @@ Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
 
 ![6 1](https://user-images.githubusercontent.com/81820421/113442994-4a821900-941b-11eb-8988-6a1bc68708ea.JPG)
 
+## JAWAB PERTANYAAN
+
+1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
+~~~
+Ya pasti ada ERROR karena codingan setiap huruf besar dan kecil tanda koma dan titik juga harus sama ,kalau tidak sama menjadi error.
+~~~
+2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+
+~~~
+Paragraf pada dokumen HTML dibuat dengan tag <p>. Selain itu ada tag pendukung lainnya seperti 
+<br>, <hr>, <pre>.
+<br>: break-line (untuk berpindah ke baris selanjutnya)
+~~~
+
+3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+
+~~~
+img menunjukkan image yang berarti gambar dan oleh karenanya digunakan untuk menyisipkan gambar. Gambar didalam sebuah dokumen HTML tidak dimasukkan sepenuhnya pada file (.html, misalnya) akan tetapi, hanya merujukkan file sumber gambar tersebut berada (disimpan).
+
+alt
+Menunjukkan sebuah alternate text (teks pengganti) yang akan muncul apabila gambar tidak dapat ditampilkan.
+
+Contoh:
+
+<img src="https://www.apacara.com/logo.png" alt="logo apacara.com" />
+tulisan "logo apacara.com" akan muncul apabila gambar logo.png tidak dapat ditampilkan.
+
+Ketika gambar di tampilkan akan terlihat sebuah title. sedangkan, jika gambar gagal ditampilkan akan menampilkan teks atribut alt.
+~~~
+
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar 
+proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+ ~~~
+ kedua atribut harus di isi semua, karena jika hanya salah satunya maka gambar tersebut akan terlihat terlalu lebar atau tinggi.
+ ~~~
+ 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, 
+_parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+
+~~~
+Telah di tentukan, untuk blank akan menambah tab baru terlebih dahulu maka akan menampilkan link yang dituju.
+~~~
+
+
+
