@@ -51,7 +51,8 @@ Selanjutnya silakan ubah-ubah nilai atributnya (align => justify, left, right, d
     kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat 
     dengan menggunakan tag dasar html.</p>
     
-    ![3 0](https://user-images.githubusercontent.com/81820421/113442553-705aee00-941a-11eb-95dc-6901dbd4b4f7.JPG)
+![3](https://user-images.githubusercontent.com/81820421/113443392-1a874580-941c-11eb-9583-8b2f0d7589c7.JPG)
+
 ![3 1](https://user-images.githubusercontent.com/81820421/113442556-718c1b00-941a-11eb-8dea-38bd128cc2d6.JPG)
 
 
@@ -61,7 +62,9 @@ Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 
 <h1>Belajar Dasar HTML</h1>
 <!-- judul paragraf kedua -->
 <h2>Paragraf pada HTML</h2>
-![4 0](https://user-images.githubusercontent.com/81820421/113442628-95e7f780-941a-11eb-8b73-5c3b6966e6f6.JPG)
+![4](https://user-images.githubusercontent.com/81820421/113443430-2d017f00-941c-11eb-8124-3895fcb44580.JPG)
+
+
 ![4 1](https://user-images.githubusercontent.com/81820421/113442630-97192480-941a-11eb-9b03-8af415eb2c7d.JPG)
 
 ## LANGKAH 4
@@ -71,12 +74,15 @@ Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, menga
     Web</b> di Prodi <i>Teknik Informatika</i> <ins>Universitas Pelita Bangsa</ins>. Pelajaran pertama
     yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal
     tag-tag dasar HTML.</p>
-    ![5 0](https://user-images.githubusercontent.com/81820421/113442765-dd6e8380-941a-11eb-81e5-f2959c6ad0b8.JPG)
+    ![5](https://user-images.githubusercontent.com/81820421/113443455-37bc1400-941c-11eb-83d1-9869b8479748.JPG)
+
 ![5 1](https://user-images.githubusercontent.com/81820421/113442769-de9fb080-941a-11eb-9789-d6ce8690e08c.JPG)
 
 ## LANGKAH 5
 Untuk menyisipkan gambar, siapkan gambar yang akan disisipkan pada halaman web, kemudian simpan file gambar tersebut satu folder dengan file dokumen html.
-![5 0](https://user-images.githubusercontent.com/81820421/113443036-5b328f00-941b-11eb-81c7-4780a91b773d.JPG)
+![5](https://user-images.githubusercontent.com/81820421/113443523-5a4e2d00-941c-11eb-851f-9e723d8c8628.JPG)
+
+
 ![5 1](https://user-images.githubusercontent.com/81820421/113443037-5cfc5280-941b-11eb-8461-0f39ccb6f7eb.JPG)
 ![logo](https://user-images.githubusercontent.com/81820421/113442898-1a3a7a80-941b-11eb-8467-8dad0e32b1f4.JPG)
 
@@ -90,6 +96,7 @@ Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
     <a href="http://www.google.com">Halaman Web Eksternal Google</a>
     </nav>
     <hr>  
-![6 0](https://user-images.githubusercontent.com/81820421/113442986-48b85580-941b-11eb-9a3a-bb847b9ef005.JPG)
+![6](https://user-images.githubusercontent.com/81820421/113443548-6803b280-941c-11eb-9715-1655d9066535.JPG)
+
 ![6 1](https://user-images.githubusercontent.com/81820421/113442994-4a821900-941b-11eb-8988-6a1bc68708ea.JPG)
 
