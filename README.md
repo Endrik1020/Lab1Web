@@ -76,10 +76,19 @@ Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 
 ## LANGKAH 4
 Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, mengacu kepada penjelasan materi pemformatan teks, sehingga tampilannya seperti berikut.
 ~~~
-<p align="left">Kami sedang belajar <mark>HTML dasar</mark>, pada matakuliah <b>Pemrograman
-    Web</b> di Prodi <i>Teknik Informatika</i> <ins>Universitas Pelita Bangsa</ins>. Pelajaran pertama
-    yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal
-    tag-tag dasar HTML.</p>
+<!-- Ini adalah paragraf pertama -->
+<!-- Judul paragraf pertama -->
+<h1>Belajar Dasar HTML </h1>
+<p align="right">Kami sedang belajar <mark>HTML dasar</mark> , pada mata kuliah Pemrograman Web di prodi
+    <b>Tehnik Informatika Universitas Pelita Bangsa</b>. Pelajaran pertama yang kami dapat 
+    adalah membuat <i>tampilan web sederhana</i> dalam rangka mengenal tag-tag dasar 
+    <strong>HTML</strong>. </p>
+<!--Ini adalah paragraf kedua-->
+<!-- Judul Paragraf kedua -->
+<h2>Paragraf pada HTML</h2>
+<p align="left"><i>Ini merupakan sebuah paragraf yang terdiri dari beberapa
+    kalimat yang saling mendukung sehingga menjadi satu kesatuan </i>. paragraf dibuat 
+    dengan menggunakan tag dasar<strong>html</strong> . </p>
 ~~~
 
   ![5](https://user-images.githubusercontent.com/81820421/113443455-37bc1400-941c-11eb-83d1-9869b8479748.JPG)
