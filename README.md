@@ -3,6 +3,7 @@
 Nama   = Endrik
 NIM    = 311910088
 Kelas  = TI.19.C.1
+Universitas Pelita Bangsa
 ~~~
 ## Langkah 1 
 Persiapan membuka VSCode dan Browser.
