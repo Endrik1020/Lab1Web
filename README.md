@@ -149,7 +149,39 @@ proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan pe
 _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
 ~~~
-Telah di tentukan, untuk blank akan menambah tab baru terlebih dahulu maka akan menampilkan link yang dituju.
+nilai atribut target sejauh ini yg saya ketahui ada 5
+-----
+1.
+ <a href="link" target="_self">penamaan link</a> 
+
+untuk membuka link di frame link itu berada. ini merupakan setelan dasar link jika pada elemen link tidak diberi atribut target
+-----
+2.
+ <a href="link" target="_blank">penamaan link</a> 
+
+untuk membuka link di tab baru
+-----
+3.
+ <a href="link" target="_parent">penamaan link</a> 
+
+untuk membuka link di frame yang satu tingkat di atas frame link tersebut berada.
+secara simple-nya begini :
+jika di website(1) di dalamnya ada website(2) lalu di website(2) ini ada link dan kita klik, maka link akan terbuka di website(1)
+-----
+4.
+ <a href="link" target="_top">penamaan link</a> 
+
+untuk membuka link di frame paling atas (paling luar).
+secara simpel-nya :
+jika di website(1) di dalamnya ada website(2) lalu di website(2) di dalamnya ada website (3) lalu di website (3) ini ada link dan kita klik, maka link akan terbuka di website(1)
+-----
+5.
+ <a href="link" target="framename">penamaan link</a> 
+
+untuk membuka link di frame yg kita pilih
+secara simpel-nya:
+jika di website(1) di dalamnya ada website(2), website(3), website(4), dan seterusnya. terus kita taro link di website(1) dan kita perintah link tersebut terbuka di frame website(3) lalu kita klik linknya, maka link akan terbuka di frame website(3)
+
 ~~~
 
 
