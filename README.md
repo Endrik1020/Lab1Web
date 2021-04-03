@@ -96,9 +96,9 @@ Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, menga
 ![5 1](https://user-images.githubusercontent.com/81820421/113442769-de9fb080-941a-11eb-9789-d6ce8690e08c.JPG)
 
 ## LANGKAH 5
-~~~
+
 Untuk menyisipkan gambar, siapkan gambar yang akan disisipkan pada halaman web, kemudian simpan file gambar tersebut satu folder dengan file dokumen html.
-~~~
+
 ![5](https://user-images.githubusercontent.com/81820421/113443523-5a4e2d00-941c-11eb-851f-9e723d8c8628.JPG)
 
 
@@ -106,8 +106,9 @@ Untuk menyisipkan gambar, siapkan gambar yang akan disisipkan pada halaman web, 
 ![logo](https://user-images.githubusercontent.com/81820421/113442898-1a3a7a80-941b-11eb-8467-8dad0e32b1f4.JPG)
 
 ## LANGKAH 6
-~~~
+
 Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
+~~~
 <!-- menambahkan link navigasi -->
 <nav>
     <a href="lab1_tag_dasar.html">Dasar HTML</a>
